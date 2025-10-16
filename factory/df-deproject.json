@@ -1,0 +1,9 @@
+{
+	"name": "df-deproject",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "28219f50-f4b6-4712-b63c-ebfffcb00ac8",
+		"tenantId": "c3ce008b-3bc6-41a2-bf2a-3d58c0b82613"
+	}
+}
